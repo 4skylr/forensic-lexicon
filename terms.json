@@ -1,0 +1,14 @@
+[
+  {"ar": "طب نفسي", "en": "Psychiatry", "field": "psychiatry", "gloss": "Medical specialty for mental disorders."},
+  {"ar": "علم نفس", "en": "Psychology", "field": "psychiatry", "gloss": "Study of mind and behavior; not automatically clinical medicine."},
+  {"ar": "تشخيص", "en": "Diagnosis", "field": "psychiatry", "gloss": "A clinical description, not a moral judgment."},
+  {"ar": "هوس", "en": "Mania", "field": "psychiatry", "gloss": "An elevated mood episode with excess activity and little sleep."},
+  {"ar": "ذهان", "en": "Psychosis", "field": "psychiatry", "gloss": "Impaired reality testing, such as delusion or hallucination."},
+  {"ar": "طب نفسي شرعي", "en": "Forensic psychiatry", "field": "psychiatry", "gloss": "Psychiatry answering a court, not replacing it."},
+  {"ar": "علم إجرام", "en": "Criminology", "field": "criminology", "gloss": "The study of crime as a social and legal pattern."},
+  {"ar": "ردع", "en": "Deterrence", "field": "criminology", "gloss": "The claim that known, certain punishment reduces offending."},
+  {"ar": "ضغط", "en": "Strain", "field": "criminology", "gloss": "Gap between approved goals and available means."},
+  {"ar": "وسم", "en": "Labeling", "field": "criminology", "gloss": "Institutional reaction can create a deviant identity."},
+  {"ar": "نشاط روتيني", "en": "Routine activity", "field": "criminology", "gloss": "Opportunity needs a motivated actor, a target, and no capable guardian."},
+  {"ar": "عود", "en": "Recidivism", "field": "criminology", "gloss": "Return to the behavior after an intervention or sanction."}
+]
