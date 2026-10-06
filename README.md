@@ -1,52 +1,47 @@
 <div align="center">
 
-# FORENSIC LEXICON
-### معجم الحقل · عربي / English
+```
+ _     _______   _____ ____ ___  _   _
+| |   | ____\ \ / /_ _/ ___/ _ \| \ | |
+| |   |  _|  \ V / | | |  | | | |  \| |
+| |___| |___  | |  | | |__| |_| | |\  |
+|_____|_____| |_| |___\____\___/|_| \_|
 
-مصطلحات قصيرة في الطب النفسي وعلم الإجرام.
-للقراءة والفرز، لا للتشخيص ولا لشرح أي أسلوب.
+        LEXICON  //  criminology
+```
 
-[دفتر الحالات](https://github.com/4skylr/case-atlas) · [البروفايل](https://github.com/4skylr)
+Short English definitions. For sorting terms, not for diagnosis, not for method.
+
+[Case Atlas](https://github.com/4skylr/case-atlas) · [Chain Notes](https://github.com/4skylr/chain-notes) · [Profile](https://github.com/4skylr)
 
 </div>
 
 ---
 
-## الطب النفسي
+## Criminology
 
-| عربي | English | المعنى المختصر |
-|---|---|---|
-| طب نفسي | Psychiatry | تخصص طبي في تشخيص الاضطرابات النفسية وعلاجها |
-| علم نفس | Psychology | دراسة السلوك والعقل، وليست بالضرورة ممارسة طبية |
-| تشخيص | Diagnosis | وصف سريري معتمد، لا حكم أخلاقي |
-| مزاج | Mood | الحالة الوجدانية السائدة عبر أيام، لا لحظة غضب |
-| هوس | Mania | نوبة ارتفاع مزاج مع نشاط زائد ونوم قليل |
-| ذهان | Psychosis | فقدان اختبار الواقع، كالضلال أو الهلوسة |
-| صدمة | Trauma | استجابة لحدث هدد السلامة، لا وصف للشخصية |
-| أهلية | Fitness to stand trial | قدرة الشخص على فهم الإجراء ومساعدة دفاعه |
-| طب نفسي شرعي | Forensic psychiatry | الطب النفسي حين يجيب على سؤال المحكمة |
+| Term | Meaning |
+|---|---|
+| Criminology | The study of crime as a social and legal pattern |
+| Deterrence | The claim that known, certain punishment reduces offending |
+| Strain | The gap between approved goals and available means |
+| Social control | What stops most people: bonds, supervision, commitment |
+| Labeling | An institution's reaction can make a deviant identity |
+| Routine activity | Opportunity: a motivated actor, a target, no capable guardian |
+| Deviance | A break with expectation. Not always a crime |
+| Recidivism | Return after an intervention or sanction |
+| Penal policy | How a society chooses punishment, prevention, and repair |
 
-## علم الإجرام
+## Where psychiatry enters
 
-| عربي | English | المعنى المختصر |
-|---|---|---|
-| علم إجرام | Criminology | دراسة الجريمة كظاهرة وكرد اجتماعي وقانوني |
-| ردع | Deterrence | فكرة أن العقوبة المعلومة والمؤكدة تقلل الإقدام |
-| ضغط | Strain | الفجوة بين الهدف المشروع والوسيلة المتاحة |
-| ضبط اجتماعي | Social control | ما يمنع أغلب الناس من الانحراف: روابط، رقابة، التزام |
-| وسم | Labeling | أثر رد المؤسسة في صناعة هوية المنحرف |
-| نشاط روتيني | Routine activity | الفرصة: دافع، هدف، وغياب رقيب |
-| انحراف | Deviance | خروج عن توقع اجتماعي، وليس دائمًا جريمة |
-| عود | Recidivism | عودة السلوك بعد تدخل أو عقوبة |
-| سياسة جنائية | Penal policy | كيف يختار المجتمع العقوبة والوقاية والإصلاح |
+| Term | Meaning |
+|---|---|
+| Forensic psychiatry | Psychiatry answering a court, not replacing it |
+| Fitness | Ability to understand the proceeding and assist a defense |
+| Diagnosis | A clinical description, not a moral verdict |
 
-## خريطة قراءة
+A disorder does not automatically cancel responsibility. A pattern is not a person.
 
-1. افرق المصطلح قبل النظرية. كثير من الخلط يبدأ من كلمة واحدة تحمل معنيين.
-2. اقرأ المدرسة كسؤال، لا كحقيقة نهائية. الكلاسيكية تسأل عن الردع، والضبط يسأل عن الامتناع.
-3. لا تنقل من حالة واحدة إلى قاعدة. علم الإجرام يعمل على الأنماط.
-4. التفصيل السريري مكانه العيادة، لا هذا الملف.
-
-المصطلحات الكاملة في [`terms.json`](terms.json).
+Full list in [`terms.json`](terms.json).
 
 MIT · [4skylr](https://github.com/4skylr)
